@@ -37,7 +37,7 @@
 
 <div align="left">
   <a href="LINK" rel="nofollow"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"></a>
-  <a href="mailto:egor.ryabov.work&amp;#64;gmail.com"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
+  <a href="mailto:egor.ryabov.work@gmail.com"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
   <a href="LINK" rel="nofollow"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"></a>
 </div>
 
